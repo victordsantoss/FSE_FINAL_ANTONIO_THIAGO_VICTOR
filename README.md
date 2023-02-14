@@ -41,4 +41,5 @@ https://user-images.githubusercontent.com/52058094/218844855-8f2fb398-c82d-445b-
 
 
 ## Apresentação
-[Link do vídeo de apresentação]()
+- Vídeo disponível no Youtube: https://youtu.be/9k4R97RHyS8
+- Vídeo disponível no SharePoint: https://unbbr.sharepoint.com/sites/StructParadgmas/_layouts/15/stream.aspx?id=%2Fsites%2FStructParadgmas%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FNova%20reuni%C3%A3o%2D20230214%5F183839%2DMeeting%20Recording%2Emp4
